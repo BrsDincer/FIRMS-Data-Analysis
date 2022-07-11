@@ -1,0 +1,20 @@
+%YAML 1.1
+---
+
+tiles:
+    OCEAN_BASE: http://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base
+    NAVIGATION_CHART: http://services.arcgisonline.com/ArcGIS/rest/services/Specialty/World_Navigation_Charts
+    OCEAN_REFERENCE: http://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference
+    NAT_GEO: http://services.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer
+    IMAGERY: http://services.arcgisonline.com/arcgis/rest/services/World_Imagery/MapServer
+    PHYSICAL: http://services.arcgisonline.com/arcgis/rest/services/World_Physical_Map/MapServer
+    SHADED_RELIEF: http://services.arcgisonline.com/arcgis/rest/services/World_Shaded_Relief/MapServer
+    STREET: http://services.arcgisonline.com/arcgis/rest/services/World_Street_Map/MapServer
+    TERRAIN_BASE: http://services.arcgisonline.com/arcgis/rest/services/World_Terrain_Base/MapServer
+    TOPOGRAPHIC: http://services.arcgisonline.com/arcgis/rest/services/World_Topo_Map/MapServer
+    DELORME: https://services.arcgisonline.com/arcgis/rest/services/Specialty/DeLorme_World_Base_Map/MapServer
+    DARK: https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Dark_Gray_Base/MapServer
+    LIGHT: https://services.arcgisonline.com/arcgis/rest/services/Canvas/World_Light_Gray_Base/MapServer
+    HILLSHADE: https://services.arcgisonline.com/arcgis/rest/services/Elevation/World_Hillshade/MapServer
+    BOUND_PLACE: https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Boundaries_and_Places/MapServer
+    TRANSPORTATION: https://services.arcgisonline.com/arcgis/rest/services/Reference/World_Transportation/MapServer

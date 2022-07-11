@@ -1,0 +1,125 @@
+a:link {
+    text-decoration: none;
+    color: red;
+    font-size: 12px;
+    font-family: Helvetica;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:active {
+    text-decoration: underline;
+    background-color: #FFFFFF;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+td:hover {
+    background-color: #EBEBEB;
+}
+
+td.border-left {
+    border-left: 2px solid #000000;
+    background-color: #696969;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-family: verdana;
+    font-size: 11px;
+    text-transform: uppercase;
+    padding: 4px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #F5F5F5;
+  padding: 5px;
+}
+
+.grid-item {
+  border: 1px solid #A9A9A9;
+  padding: 5px;
+  font-size: 18px;
+  text-align: center;
+}
+
+hr.divider {
+    border-bottom: 1px solid #8B0000;
+    border-radius: 2px;
+}
+
+
+h1 {
+    color: red;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 23px;
+    font-weight: bold;
+    word-spacing: -2px;
+    letter-spacing: 6px;
+}
+h3 {
+    color: red;
+    text-align: left;
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 18px;
+    font-weight: bold;
+    word-spacing: -2px;
+    letter-spacing: 2px;
+    padding: 3px;
+}
+p {
+    color: black;
+    font-family: courier;
+    font-size: 16px;
+}
+
+div {
+    overflow-x: auto;
+    overflow-y: auto;
+}
+
+iframe {
+    border: none;
+
+}
+table,th,td {
+
+    border-bottom: 2px double #000000;
+}
+
+table {
+    border-collapse: collapse;
+}
+thead {
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+th {
+    text-transform: uppercase;
+    text-align: left;
+    height: 40px;
+    width: 160px;
+    font-family: verdana;
+    font-size: 15px;
+    padding: 6px;
+}
+
+td {
+    padding: 6px;
+    font-size: 15px;
+    font-weight: bold;
+    color: #8B0000;
+    vertical-align: bottom;
+    text-align: left;
+    width: %100;
+}
